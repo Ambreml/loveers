@@ -1,0 +1,5 @@
+export const WELCOME = "Welcome"
+export const LOGIN = "Login"
+export const REGISTER = "Register"
+export const HOME = "Home"
+export const ADD_PHOTO = "Ajouter une photo"

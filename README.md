@@ -11,7 +11,7 @@
 ### Cloner le projet
 
 ```bash
-$ git clone https://github.com/.git
+$ git clone https://github.com/Ambreml/loveers
 ```
 
 ```bash
